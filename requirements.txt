@@ -3,3 +3,4 @@ Django==3.2.25
 bitbucket-python==0.2.2
 python-dateutil==2.9.0.post0
 python-decouple==3.8
+gunicorn==19.7.1
