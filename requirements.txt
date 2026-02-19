@@ -33,7 +33,7 @@ django-import-export==2.7.1
 django-js-asset==2.0.0
 django-libsass==0.9
 django-mptt==0.14.0
-django-multi-form==0.5
+#django-multi-form==0.5
 django-object-actions==3.1.0
 Django-Select2==5.8.10
 django-sitetree==1.18.0
